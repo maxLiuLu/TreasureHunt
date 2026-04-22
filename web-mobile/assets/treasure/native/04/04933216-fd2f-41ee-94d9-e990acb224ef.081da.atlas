@@ -1,0 +1,132 @@
+
+baojinbi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 939, 366
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 738, 410
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 2, 2
+  size: 621, 538
+  orig: 621, 538
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 765
+  size: 845, 255
+  orig: 845, 255
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 130, 637
+  size: 606, 126
+  orig: 606, 126
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 816, 421
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 635
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 755, 27
+  size: 174, 214
+  orig: 174, 214
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 849, 802
+  size: 167, 218
+  orig: 167, 218
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 542, 416
+  size: 219, 194
+  orig: 219, 194
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 542, 5
+  size: 229, 211
+  orig: 229, 211
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 939, 190
+  size: 50, 174
+  orig: 50, 174
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 738, 480
+  size: 175, 76
+  orig: 175, 76
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 738, 657
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 816, 641
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 849, 625
+  size: 175, 166
+  orig: 175, 166
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 542, 236
+  size: 193, 178
+  orig: 193, 178
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 737, 243
+  size: 200, 165
+  orig: 200, 165
+  offset: 0, 0
+  index: -1
