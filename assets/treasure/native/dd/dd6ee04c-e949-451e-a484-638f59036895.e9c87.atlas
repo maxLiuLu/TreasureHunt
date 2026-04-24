@@ -1,0 +1,90 @@
+
+renwubaoxiang_lv4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bom_hl
+  rotate: false
+  xy: 347, 232
+  size: 74, 74
+  orig: 89, 90
+  offset: 7, 7
+  index: -1
+bx_4a
+  rotate: true
+  xy: 259, 308
+  size: 196, 172
+  orig: 196, 172
+  offset: 0, 0
+  index: -1
+bx_4b
+  rotate: false
+  xy: 2, 324
+  size: 255, 180
+  orig: 257, 182
+  offset: 1, 1
+  index: -1
+bx_4c
+  rotate: true
+  xy: 258, 114
+  size: 192, 87
+  orig: 194, 89
+  offset: 1, 1
+  index: -1
+dian
+  rotate: false
+  xy: 190, 40
+  size: 42, 42
+  orig: 70, 70
+  offset: 14, 14
+  index: -1
+guangquan1
+  rotate: false
+  xy: 140, 206
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+ptc_cheng_1
+  rotate: false
+  xy: 140, 84
+  size: 112, 120
+  orig: 122, 126
+  offset: 5, 1
+  index: -1
+ptc_cheng_2
+  rotate: true
+  xy: 347, 158
+  size: 72, 76
+  orig: 82, 86
+  offset: 5, 5
+  index: -1
+ptc_cheng_3
+  rotate: false
+  xy: 108, 2
+  size: 80, 80
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+ptc_cheng_4
+  rotate: true
+  xy: 254, 20
+  size: 92, 100
+  orig: 98, 110
+  offset: 1, 5
+  index: -1
+st_guang_2
+  rotate: false
+  xy: 2, 141
+  size: 136, 181
+  orig: 182, 210
+  offset: 21, 0
+  index: -1
+x_jin
+  rotate: false
+  xy: 2, 13
+  size: 104, 126
+  orig: 128, 128
+  offset: 12, 1
+  index: -1
