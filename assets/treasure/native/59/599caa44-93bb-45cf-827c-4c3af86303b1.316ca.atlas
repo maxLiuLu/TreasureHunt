@@ -1,0 +1,76 @@
+
+renwubaoxiang_lv3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bom_hl
+  rotate: false
+  xy: 195, 2
+  size: 74, 74
+  orig: 89, 90
+  offset: 7, 7
+  index: -1
+bx_3a
+  rotate: false
+  xy: 2, 126
+  size: 195, 172
+  orig: 195, 172
+  offset: 0, 0
+  index: -1
+bx_3b
+  rotate: false
+  xy: 2, 300
+  size: 255, 176
+  orig: 257, 178
+  offset: 1, 1
+  index: -1
+bx_3c
+  rotate: false
+  xy: 2, 38
+  size: 191, 86
+  orig: 193, 88
+  offset: 1, 1
+  index: -1
+ptc_lan_1
+  rotate: false
+  xy: 305, 218
+  size: 112, 120
+  orig: 122, 126
+  offset: 5, 1
+  index: -1
+ptc_lan_2
+  rotate: true
+  xy: 301, 62
+  size: 72, 76
+  orig: 82, 86
+  offset: 5, 5
+  index: -1
+ptc_lan_3
+  rotate: false
+  xy: 305, 136
+  size: 80, 80
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+ptc_lan_4
+  rotate: true
+  xy: 199, 78
+  size: 92, 100
+  orig: 98, 110
+  offset: 1, 5
+  index: -1
+st_guang_2
+  rotate: true
+  xy: 259, 340
+  size: 136, 181
+  orig: 182, 210
+  offset: 21, 0
+  index: -1
+x_lan
+  rotate: false
+  xy: 199, 172
+  size: 104, 126
+  orig: 128, 128
+  offset: 12, 1
+  index: -1

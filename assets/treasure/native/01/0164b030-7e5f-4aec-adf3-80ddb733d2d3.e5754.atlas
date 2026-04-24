@@ -1,0 +1,41 @@
+
+renwubaoxiang_lv1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bom_hl
+  rotate: false
+  xy: 195, 11
+  size: 74, 74
+  orig: 89, 90
+  offset: 7, 7
+  index: -1
+bx_1a
+  rotate: false
+  xy: 258, 87
+  size: 195, 172
+  orig: 195, 172
+  offset: 0, 0
+  index: -1
+bx_1b
+  rotate: false
+  xy: 2, 91
+  size: 254, 168
+  orig: 256, 170
+  offset: 1, 1
+  index: -1
+bx_1c
+  rotate: false
+  xy: 2, 2
+  size: 191, 87
+  orig: 193, 89
+  offset: 1, 1
+  index: -1
+dian_bai
+  rotate: false
+  xy: 455, 217
+  size: 42, 42
+  orig: 70, 70
+  offset: 14, 14
+  index: -1

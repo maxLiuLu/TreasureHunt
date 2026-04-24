@@ -1,0 +1,69 @@
+
+renwubaoxiang_lv2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bom_hl
+  rotate: false
+  xy: 140, 25
+  size: 74, 74
+  orig: 89, 90
+  offset: 7, 7
+  index: -1
+bx_2a
+  rotate: true
+  xy: 262, 200
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+bx_2b
+  rotate: false
+  xy: 2, 229
+  size: 258, 171
+  orig: 260, 173
+  offset: 1, 1
+  index: -1
+bx_2c
+  rotate: true
+  xy: 246, 6
+  size: 192, 89
+  orig: 195, 91
+  offset: 1, 1
+  index: -1
+dian
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 70, 70
+  offset: 14, 14
+  index: -1
+dian_bai
+  rotate: false
+  xy: 46, 2
+  size: 42, 42
+  orig: 70, 70
+  offset: 14, 14
+  index: -1
+dian_zi
+  rotate: false
+  xy: 246, 217
+  size: 10, 10
+  orig: 20, 20
+  offset: 5, 5
+  index: -1
+st_guang_2
+  rotate: false
+  xy: 2, 46
+  size: 136, 181
+  orig: 182, 210
+  offset: 21, 0
+  index: -1
+x_lv
+  rotate: false
+  xy: 140, 101
+  size: 104, 126
+  orig: 128, 128
+  offset: 12, 1
+  index: -1
